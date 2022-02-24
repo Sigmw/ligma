@@ -1,0 +1,4 @@
+#function: (fn* (& items) items)
+(1 2 3)
+(1 2 3)
+true
